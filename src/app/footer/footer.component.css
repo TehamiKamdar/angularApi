@@ -1,0 +1,11 @@
+.footer-div{
+  display: flex !important;
+  background-color: #dadada !important;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.footer-text{
+  font-size: 18px !important;
+}

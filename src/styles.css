@@ -1,0 +1,13 @@
+*{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+.active{
+  text-decoration: underline !important;
+  color: black !important;
+}
+
+.nav-link:hover{
+  background-color: green !important;
+  border-radius: 5px !important;
+}
